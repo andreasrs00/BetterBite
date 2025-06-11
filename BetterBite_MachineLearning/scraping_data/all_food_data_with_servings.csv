@@ -1,0 +1,353 @@
+food_name,food_id,food_type,food_url,calcium,calories,carbohydrate,cholesterol,fat,fiber,iron,potassium,protein,saturated_fat,monounsaturated_fat,polyunsaturated_fat,serving_description,sodium,sugar,vitamin_a,vitamin_c
+Apple Pie,39016,Generic,https://www.fatsecret.com/calories-nutrition/usda/apple-pie,11,411,57.50,0,19.38,,1.74,122,3.72,4.728,8.359,5.174,"1 piece (1/8 9"" dia)",327,,17,2.6
+Apple Pie,39016,Generic,https://www.fatsecret.com/calories-nutrition/usda/apple-pie,7,265,37.10,0,12.50,,1.12,79,2.40,3.050,5.393,3.338,100 g,211,,11,1.7
+Apple Pie,39016,Generic,https://www.fatsecret.com/calories-nutrition/usda/apple-pie,2,75,10.52,0,3.54,,0.32,22,0.68,0.865,1.529,0.946,1 oz,60,,3,0.5
+Baby Back Ribs,3066288,Brand,https://www.fatsecret.com/calories-nutrition/signature-cafe/baby-back-ribs,,210,4.00,55,15.00,0,,,17.00,5.000,,,4 ribs,460,3.00,,
+Baklava,64613374,Brand,https://www.fatsecret.com/calories-nutrition/mediterranean/baklava,5,160,17.00,0,9.00,,0.50,33,2.00,4.500,,,2 pieces,30,6.00,,
+Carpaccio,7406497,Generic,https://www.fatsecret.com/calories-nutrition/generic/carpaccio-beef,22,119,0,36,2.62,0,1.92,364,22.31,0.898,1.105,0.113,100 g,62,0,0,0
+Carpaccio,7406497,Generic,https://www.fatsecret.com/calories-nutrition/generic/carpaccio-beef,4,24,0,7,0.52,0,0.38,73,4.46,0.180,0.221,0.023,1 slice,12,0,0,0
+Carpaccio,7406497,Generic,https://www.fatsecret.com/calories-nutrition/generic/carpaccio-beef,18,95,0,29,2.10,0,1.54,291,17.85,0.718,0.884,0.090,1 serving (80 g),50,0,0,0
+Carpaccio,7406497,Generic,https://www.fatsecret.com/calories-nutrition/generic/carpaccio-beef,50,268,0,81,5.90,0,4.32,819,50.20,2.020,2.486,0.254,1 cup,140,0,0,0.0
+Steak Tartare (Raw Ground Beef and Egg),2211,Generic,https://www.fatsecret.com/calories-nutrition/generic/steak-tartare-(raw-ground-beef-and-egg),52,470,1.41,235,32.61,0.2,4.61,638,39.83,12.634,14.246,1.292,1 cup,269,0.52,29,0.7
+Steak Tartare (Raw Ground Beef and Egg),2211,Generic,https://www.fatsecret.com/calories-nutrition/generic/steak-tartare-(raw-ground-beef-and-egg),23,210,0.63,105,14.56,0.1,2.06,285,17.78,5.640,6.360,0.577,100 g,120,0.23,13,0.3
+Steak Tartare (Raw Ground Beef and Egg),2211,Generic,https://www.fatsecret.com/calories-nutrition/generic/steak-tartare-(raw-ground-beef-and-egg),7,60,0.18,30,4.13,0,0.58,81,5.04,1.599,1.803,0.164,1 oz,34,0.07,4,0.1
+Steak Tartare (Raw Ground Beef and Egg),2211,Generic,https://www.fatsecret.com/calories-nutrition/generic/steak-tartare-(raw-ground-beef-and-egg),39,353,1.06,176,24.46,0.2,3.46,479,29.87,9.475,10.685,0.969,1 serving (168 g),202,0.39,22,0.5
+Beet Salad with Goat Cheese,30097653,Brand,https://www.fatsecret.com/calories-nutrition/urban-plates/beet-salad-with-goat-cheese,,130,17.00,5,5.00,,,,5.00,3.000,,,1 serving,150,,,
+Beignets,1180655,Brand,https://www.fatsecret.com/calories-nutrition/cafe-du-monde/beignets,118,110,12.00,10,7.00,0,3.00,510,2.00,2.000,,,1 beignets,65,0,,
+Korean Style Bibimbap Beef,19397154,Brand,https://www.fatsecret.com/calories-nutrition/bibigo/korean-style-bibimbap-beef,,340,56.00,25,6.00,3.0,,,13.00,1.500,,,1 bowl,780,18.00,,
+Bread Pudding,1188,Generic,https://www.fatsecret.com/calories-nutrition/generic/pudding-bread,238,306,46.52,124,9.48,1.8,2.40,432,10.54,3.298,3.366,1.776,1 cup,472,29.44,130,0.6
+Bread Pudding,1188,Generic,https://www.fatsecret.com/calories-nutrition/generic/pudding-bread,119,153,23.26,62,4.74,0.9,1.20,216,5.27,1.649,1.683,0.888,100 g,236,14.72,65,0.3
+Bread Pudding,1188,Generic,https://www.fatsecret.com/calories-nutrition/generic/pudding-bread,34,43,6.59,18,1.34,0.3,0.34,61,1.49,0.467,0.477,0.252,1 oz,67,4.17,18,0.1
+Bread Pudding,1188,Generic,https://www.fatsecret.com/calories-nutrition/generic/pudding-bread,119,153,23.26,62,4.74,0.9,1.20,216,5.27,1.649,1.683,0.888,1 serving (100 g),236,14.72,65,0.3
+Bread Pudding,1188,Generic,https://www.fatsecret.com/calories-nutrition/generic/pudding-bread,17,21,3.26,9,0.66,0.1,0.17,30,0.74,0.231,0.236,0.124,1 cubic inch,33,2.06,9,0.0
+Breakfast Burrito,603728,Generic,https://www.fatsecret.com/calories-nutrition/generic/burrito-breakfast,265,305,17.96,267,18.57,1.2,2.23,234,16.19,8.081,6.664,2.180,1 burrito,558,2.63,164,3.7
+Breakfast Burrito,603728,Generic,https://www.fatsecret.com/calories-nutrition/generic/burrito-breakfast,175,202,11.89,177,12.30,0.8,1.48,155,10.72,5.352,4.413,1.444,100 g,370,1.74,108,2.4
+Bruschetta,5708300,Generic,https://www.fatsecret.com/calories-nutrition/generic/bruschetta,35,107,17.03,0,3.04,1.4,1.04,126,3.03,0.491,1.886,0.481,1 piece,274,0.83,23,4.7
+Bruschetta,5708300,Generic,https://www.fatsecret.com/calories-nutrition/generic/bruschetta,49,153,24.33,0,4.35,2.1,1.48,180,4.34,0.702,2.695,0.687,100 g,391,1.18,33,6.7
+Bruschetta,5708300,Generic,https://www.fatsecret.com/calories-nutrition/generic/bruschetta,69,215,34.06,0,6.09,2.9,2.07,252,6.07,0.983,3.773,0.962,1 serving (140 g),547,1.65,46,9.4
+Caesar Salad with Romaine,5898,Generic,https://www.fatsecret.com/calories-nutrition/generic/caesar-salad-(with-romaine),93,184,7.04,43,15.30,1.6,1.35,218,5.43,2.868,9.899,1.835,1 cup,280,1.38,208,18.1
+Caesar Salad with Romaine,5898,Generic,https://www.fatsecret.com/calories-nutrition/generic/caesar-salad-(with-romaine),86,170,6.52,40,14.17,1.5,1.25,202,5.03,2.656,9.166,1.699,100 g,259,1.28,193,16.8
+Caesar Salad with Romaine,5898,Generic,https://www.fatsecret.com/calories-nutrition/generic/caesar-salad-(with-romaine),93,184,7.04,43,15.30,1.6,1.35,218,5.43,2.868,9.899,1.835,1 serving (108 g),280,1.38,208,18.1
+Cannoli,597678,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-cannoli,105,216,24.52,32,9.39,0.6,1.11,82,7.40,4.640,2.630,1.595,1 cannoli,42,9.31,60,0.0
+Cannoli,597678,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-cannoli,123,254,28.84,38,11.04,0.7,1.31,97,8.70,5.459,3.095,1.876,100 g,50,10.96,71,0.0
+Cannoli,597678,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-cannoli,35,72,8.18,11,3.13,0.2,0.37,27,2.47,1.548,0.877,0.532,1 oz,14,3.11,20,0.0
+Cannoli,597678,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-cannoli,105,216,24.52,32,9.39,0.6,1.11,82,7.40,4.640,2.630,1.595,1 serving (85 g),42,9.31,60,0.0
+Tomato Mozzarella Caprese Salad,1208802,Brand,https://www.fatsecret.com/calories-nutrition/bertuccis/tomato-mozzarella-caprese-salad,,280,10.00,0,20.00,4.0,,,19.00,13.000,,,1 serving,80,0,,
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,46,326,42.37,48,16.70,0.9,1.03,80,3.09,3.081,5.554,7.146,"1 piece (1/10 1-layer, 8"" or 9"" dia)",147,31.30,143,0.7
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,58,408,52.96,60,20.88,1.1,1.29,100,3.86,3.851,6.942,8.933,100 g,184,39.12,179,0.9
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,16,116,15.01,17,5.92,0.3,0.37,28,1.09,1.092,1.968,2.532,1 oz,52,11.09,51,0.3
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,77,543,70.44,80,27.77,1.5,1.72,133,5.13,5.122,9.233,11.881,"1 piece (1/12 2-layer, 8"" or 9"" dia)",245,52.03,238,1.2
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,35,245,31.78,36,12.53,0.7,0.77,60,2.32,2.311,4.165,5.360,1 cupcake,110,23.47,107,0.5
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,5,34,4.40,5,1.73,0.1,0.11,8,0.32,0.320,0.576,0.741,1 cubic inch,15,3.25,15,0.1
+Carrot Cake with Icing,3803,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-carrot-with-icing,77,543,70.44,80,27.77,1.5,1.72,133,5.13,5.122,9.233,11.881,1 serving (133 g),245,52.03,238,1.2
+Marinated Fish (Ceviche),2292,Generic,https://www.fatsecret.com/calories-nutrition/generic/marinated-fish-(ceviche),63,173,9.20,50,1.97,1.3,0.50,740,28.75,0.418,0.355,0.700,1 cup,325,3.27,85,72.5
+Marinated Fish (Ceviche),2292,Generic,https://www.fatsecret.com/calories-nutrition/generic/marinated-fish-(ceviche),25,69,3.68,20,0.79,0.5,0.20,296,11.50,0.167,0.142,0.280,100 g,130,1.31,34,29.0
+Marinated Fish (Ceviche),2292,Generic,https://www.fatsecret.com/calories-nutrition/generic/marinated-fish-(ceviche),7,20,1.04,6,0.22,0.1,0.06,84,3.26,0.047,0.040,0.079,1 oz,37,0.37,10,8.2
+Marinated Fish (Ceviche),2292,Generic,https://www.fatsecret.com/calories-nutrition/generic/marinated-fish-(ceviche),47,128,6.84,37,1.47,0.9,0.37,551,21.39,0.311,0.264,0.521,1 serving (186 g),242,2.44,63,53.9
+Fruit & Cheese Plate,189152,Brand,https://www.fatsecret.com/calories-nutrition/fresh-and-easy/fruit-and-cheese-plate,,430,49.00,65,19.00,5.0,,,17.00,12.000,,,1 unit,550,26.00,,
+Cheesecake,38873,Generic,https://www.fatsecret.com/calories-nutrition/usda/cheesecake,41,257,20.40,44,18.00,0.3,0.50,72,4.40,7.937,6.907,1.282,1 piece (1/6 17 oz cake),166,,114,0.3
+Cheesecake,38873,Generic,https://www.fatsecret.com/calories-nutrition/usda/cheesecake,51,321,25.50,55,22.50,0.4,0.63,90,5.50,9.921,8.634,1.602,100 g,207,,142,0.4
+Cheesecake,38873,Generic,https://www.fatsecret.com/calories-nutrition/usda/cheesecake,14,91,7.23,16,6.38,0.1,0.18,26,1.56,2.813,2.448,0.454,1 oz,59,,40,0.1
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,22,160,6.11,45,8.60,1.2,1.21,321,14.80,1.752,3.665,2.433,1/2 chicken breast with sauce,624,2.67,81,6.6
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,17,124,4.74,35,6.67,0.9,0.94,249,11.47,1.358,2.841,1.886,100 g,484,2.07,63,5.1
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,40,293,11.19,83,15.74,2.1,2.22,588,27.07,3.205,6.705,4.451,1 cup,1142,4.89,149,12.0
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,13,97,3.70,27,5.20,0.7,0.73,194,8.95,1.059,2.216,1.471,1 chicken thigh with sauce,378,1.61,49,4.0
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,5,35,1.34,10,1.89,0.3,0.27,71,3.25,0.385,0.805,0.535,1 oz,137,0.59,18,1.4
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,30,219,8.39,62,11.81,1.6,1.66,441,20.30,2.404,5.029,3.338,1 serving (177 g),857,3.66,112,9.0
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,25,180,6.87,51,9.67,1.3,1.36,361,16.63,1.969,4.119,2.735,1 chicken leg with sauce,702,3.00,91,7.4
+Chicken Curry,2261,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-curry,12,84,3.22,24,4.54,0.6,0.64,169,7.80,0.923,1.932,1.282,1 chicken drumstick with sauce,329,1.41,43,3.5
+Quesadilla with Poultry and Cheese,4874,Generic,https://www.fatsecret.com/calories-nutrition/generic/quesadilla-with-poultry-and-cheese,504,563,37.06,94,31.54,2.4,3.26,293,31.56,14.608,10.577,4.508,1 quesadilla,1369,1.86,158,6.3
+Quesadilla with Poultry and Cheese,4874,Generic,https://www.fatsecret.com/calories-nutrition/generic/quesadilla-with-poultry-and-cheese,274,306,20.14,51,17.14,1.3,1.77,159,17.15,7.939,5.748,2.450,100 g,744,1.01,86,3.4
+Quesadilla with Poultry and Cheese,4874,Generic,https://www.fatsecret.com/calories-nutrition/generic/quesadilla-with-poultry-and-cheese,78,87,5.71,14,4.86,0.4,0.50,45,4.86,2.251,1.630,0.695,1 oz,211,0.29,24,1.0
+Quesadilla with Poultry and Cheese,4874,Generic,https://www.fatsecret.com/calories-nutrition/generic/quesadilla-with-poultry-and-cheese,504,563,37.06,94,31.54,2.4,3.26,293,31.56,14.608,10.577,4.508,1 serving (184 g),1369,1.86,158,6.3
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,4,81,0,23,5.40,0,0.35,51,7.46,1.513,2.121,1.150,"1 small (yield after cooking, bone removed)",113,0,13,0
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,5,92,0,27,6.18,0,0.40,59,8.52,1.729,2.424,1.314,"1 medium (yield after cooking, bone removed)",129,0,15,0
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,15,288,0,83,19.30,0,1.26,183,26.64,5.405,7.576,4.106,100 g,404,0,47,0
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,6,124,0,36,8.30,0,0.54,79,11.46,2.324,3.258,1.765,"1 large (yield after cooking, bone removed)",174,0,20,0
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,2,43,0,12,2.89,0,0.19,27,4.00,0.811,1.136,0.616,"1 oz, with bone cooked (yield after bone removed)",61,0,7,0
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,3,55,0,16,3.67,0,0.24,35,5.06,1.027,1.440,0.780,"1 ""drummette"" (mini drumstick from a wing)",77,0,9,0
+Chicken Wing (Skin Eaten),1714,Generic,https://www.fatsecret.com/calories-nutrition/generic/chicken-wing-skin-eaten,2,29,0,8,1.93,0,0.13,18,2.66,0.540,0.758,0.411,"1 oz, with bone (yield after cooking, bone removed)",40,0,5,0
+Chocolate Cake (with Chocolate Frosting),38840,Generic,https://www.fatsecret.com/calories-nutrition/usda/chocolate-cake-(with-chocolate-frosting),28,235,34.94,27,10.50,1.8,1.41,128,2.62,3.053,5.606,1.181,1 piece (1/8 18 oz cake),214,,17,0.1
+Chocolate Cake (with Chocolate Frosting),38840,Generic,https://www.fatsecret.com/calories-nutrition/usda/chocolate-cake-(with-chocolate-frosting),43,367,54.60,42,16.40,2.8,2.20,200,4.10,4.771,8.760,1.845,100 g,334,,26,0.1
+Chocolate Cake (with Chocolate Frosting),38840,Generic,https://www.fatsecret.com/calories-nutrition/usda/chocolate-cake-(with-chocolate-frosting),12,104,15.48,12,4.65,0.8,0.62,57,1.16,1.353,2.483,0.523,1 oz,95,,7,0.0
+Chocolate Mousse,1227,Generic,https://www.fatsecret.com/calories-nutrition/generic/mousse-chocolate,167,355,27.37,235,25.69,1.0,0.92,247,7.07,14.749,8.187,1.389,1 cup,66,24.96,255,0.3
+Chocolate Mousse,1227,Generic,https://www.fatsecret.com/calories-nutrition/generic/mousse-chocolate,98,209,16.10,138,15.11,0.6,0.54,145,4.16,8.676,4.816,0.817,100 g,39,14.68,150,0.2
+Chocolate Mousse,1227,Generic,https://www.fatsecret.com/calories-nutrition/generic/mousse-chocolate,28,59,4.56,39,4.28,0.2,0.15,41,1.18,2.460,1.365,0.232,1 oz,11,4.16,43,0.1
+Chocolate Mousse,1227,Generic,https://www.fatsecret.com/calories-nutrition/generic/mousse-chocolate,83,178,13.69,117,12.84,0.5,0.46,123,3.54,7.375,4.094,0.694,1 serving (85 g),33,12.48,128,0.2
+Churros,4223,Generic,https://www.fatsecret.com/calories-nutrition/generic/churros,2,116,11.94,2,7.35,0.2,0.32,8,0.73,2.007,4.128,0.859,1 churro,37,6.55,5,0
+Churros,4223,Generic,https://www.fatsecret.com/calories-nutrition/generic/churros,6,447,45.94,7,28.28,0.7,1.25,30,2.79,7.719,15.876,3.302,100 g,144,25.19,21,0
+Churros,4223,Generic,https://www.fatsecret.com/calories-nutrition/generic/churros,2,116,11.94,2,7.35,0.2,0.32,8,0.73,2.007,4.128,0.859,1 serving (26 g),37,6.55,5,0
+Clam Chowder,3043,Generic,https://www.fatsecret.com/calories-nutrition/generic/clam-chowder,144,163,19.01,17,5.83,2.0,2.05,320,8.83,2.340,1.986,1.235,1 cup,1144,5.47,71,5.4
+Clam Chowder,3043,Generic,https://www.fatsecret.com/calories-nutrition/generic/clam-chowder,59,67,7.79,7,2.39,0.8,0.84,131,3.62,0.959,0.814,0.506,100 g,469,2.24,29,2.2
+Clam Chowder,3043,Generic,https://www.fatsecret.com/calories-nutrition/generic/clam-chowder,144,163,19.01,17,5.83,2.0,2.05,320,8.83,2.340,1.986,1.235,1 serving (244 g),1144,5.47,71,5.4
+Clam Chowder,3043,Generic,https://www.fatsecret.com/calories-nutrition/generic/clam-chowder,350,397,46.19,42,14.17,4.7,4.98,777,21.47,5.687,4.827,3.001,"1 can (10.75 oz), prepared to directions",2781,13.28,172,13.0
+"Bacon, Chicken and Tomato Club Sandwich with Lettuce and Spread",2784,Generic,https://www.fatsecret.com/calories-nutrition/generic/bacon-chicken-and-tomato-club-sandwich-with-lettuce-and-spread,157,549,49.00,71,24.48,3.0,4.58,462,31.02,5.321,7.523,9.457,1 sandwich,1087,5.41,42,6.1
+"Bacon, Chicken and Tomato Club Sandwich with Lettuce and Spread",2784,Generic,https://www.fatsecret.com/calories-nutrition/generic/bacon-chicken-and-tomato-club-sandwich-with-lettuce-and-spread,157,549,49.00,71,24.48,3.0,4.58,462,31.02,5.321,7.523,9.457,1 serving (246 g),1087,5.41,42,6.1
+"Bacon, Chicken and Tomato Club Sandwich with Lettuce and Spread",2784,Generic,https://www.fatsecret.com/calories-nutrition/generic/bacon-chicken-and-tomato-club-sandwich-with-lettuce-and-spread,64,223,19.92,29,9.95,1.2,1.86,188,12.61,2.163,3.058,3.844,100 g,442,2.20,17,2.5
+Crab Cake,2386,Generic,https://www.fatsecret.com/calories-nutrition/generic/crab-cake,72,106,0.42,95,5.03,0.1,0.73,224,14.00,0.965,1.951,1.469,"1 cake (2-3/4"" dia, 3/4"" high)",217,0.18,44,1.9
+Crab Cake,2386,Generic,https://www.fatsecret.com/calories-nutrition/generic/crab-cake,114,168,0.67,151,7.98,0.1,1.16,356,22.23,1.531,3.097,2.332,100 g,344,0.28,70,3.0
+Crab Cake,2386,Generic,https://www.fatsecret.com/calories-nutrition/generic/crab-cake,32,48,0.19,43,2.26,0,0.33,101,6.30,0.434,0.878,0.661,1 oz,98,0.08,20,0.9
+Creme Brulee,4322117,Generic,https://www.fatsecret.com/calories-nutrition/generic/creme-brulee,75,404,26.29,285,32.15,0,0.43,82,4.06,18.987,9.873,1.668,1 ramekin,38,23.85,370,0.5
+Creme Brulee,4322117,Generic,https://www.fatsecret.com/calories-nutrition/generic/creme-brulee,63,336,21.91,237,26.79,0,0.36,68,3.38,15.823,8.227,1.390,100 g,32,19.87,308,0.4
+Creme Brulee,4322117,Generic,https://www.fatsecret.com/calories-nutrition/generic/creme-brulee,75,404,26.29,285,32.15,0,0.43,82,4.06,18.987,9.873,1.668,1 serving (120 g),38,23.85,370,0.5
+Creme Brulee,4322117,Generic,https://www.fatsecret.com/calories-nutrition/generic/creme-brulee,18,95,6.21,67,7.60,0,0.10,19,0.96,4.486,2.332,0.394,1 oz,9,5.63,87,0.1
+Creme Brulee,4322117,Generic,https://www.fatsecret.com/calories-nutrition/generic/creme-brulee,167,895,58.29,631,71.27,0,0.95,182,9.00,42.089,21.885,3.697,1 cup,85,52.86,819,1.0
+Croque Madame,74270989,Brand,https://www.fatsecret.com/calories-nutrition/la-madeleine/croque-madame,,890,76.00,335,40.00,3.0,,,51.00,18.000,,,1 serving,2260,6.00,,
+Cupcakes with Frosting (Low Fat),39134,Generic,https://www.fatsecret.com/calories-nutrition/usda/cupcakes-with-frosting-(low-fat),15,131,28.90,0,1.59,1.8,0.66,96,1.85,0.466,0.795,0.209,1 cupcake,178,,0,0.0
+Cupcakes with Frosting (Low Fat),39134,Generic,https://www.fatsecret.com/calories-nutrition/usda/cupcakes-with-frosting-(low-fat),36,305,67.20,0,3.70,4.3,1.54,224,4.30,1.084,1.849,0.487,100 g,413,,0,0
+Deviled Egg,3111,Generic,https://www.fatsecret.com/calories-nutrition/generic/egg-deviled,15,62,0.42,121,5.03,0,0.35,37,3.59,1.232,1.662,1.507,1/2 large,94,0.33,50,0
+Deviled Egg,3111,Generic,https://www.fatsecret.com/calories-nutrition/generic/egg-deviled,13,56,0.38,109,4.54,0,0.32,33,3.24,1.113,1.501,1.361,1/2 medium,85,0.30,45,0
+Deviled Egg,3111,Generic,https://www.fatsecret.com/calories-nutrition/generic/egg-deviled,47,201,1.35,390,16.23,0,1.13,118,11.57,3.976,5.361,4.861,100 g,302,1.06,161,0
+Deviled Egg,3111,Generic,https://www.fatsecret.com/calories-nutrition/generic/egg-deviled,16,70,0.47,137,5.68,0,0.40,41,4.05,1.391,1.876,1.701,1/2 extra large,106,0.37,56,0
+Sugared or Glazed Doughnuts,38969,Generic,https://www.fatsecret.com/calories-nutrition/usda/sugared-or-glazed-doughnuts,27,192,22.86,14,10.30,0.7,0.48,46,2.34,2.667,5.714,1.309,"1 medium (approx 3"" dia)",181,,1,0.0
+Sugared or Glazed Doughnuts,38969,Generic,https://www.fatsecret.com/calories-nutrition/usda/sugared-or-glazed-doughnuts,60,426,50.80,32,22.90,1.5,1.06,102,5.20,5.926,12.697,2.909,100 g,402,,3,0.1
+Sugared or Glazed Doughnuts,38969,Generic,https://www.fatsecret.com/calories-nutrition/usda/sugared-or-glazed-doughnuts,17,121,14.40,9,6.49,0.4,0.30,29,1.47,1.680,3.600,0.825,1 oz,114,,1,0.0
+Steamed Dumpling (Filled with Meat Poultry or Seafood),4926,Generic,https://www.fatsecret.com/calories-nutrition/generic/dumpling-steamed-filled-with-meat-poultry-or-seafood,7,41,3.54,18,0.98,0.2,0.51,70,4.27,0.274,0.359,0.201,1 dumpling,161,0.21,5,0.5
+Steamed Dumpling (Filled with Meat Poultry or Seafood),4926,Generic,https://www.fatsecret.com/calories-nutrition/generic/dumpling-steamed-filled-with-meat-poultry-or-seafood,19,112,9.56,48,2.64,0.5,1.38,188,11.55,0.740,0.971,0.542,100 g,435,0.57,13,1.3
+Steamed Dumpling (Filled with Meat Poultry or Seafood),4926,Generic,https://www.fatsecret.com/calories-nutrition/generic/dumpling-steamed-filled-with-meat-poultry-or-seafood,7,41,3.54,18,0.98,0.2,0.51,70,4.27,0.274,0.359,0.201,1 serving (37 g),161,0.21,5,0.5
+"Soybeans (Mature Seeds, Steamed, Cooked)",36575,Generic,https://www.fatsecret.com/calories-nutrition/usda/soybeans-(mature-seeds-steamed-cooked),55,76,6.14,0,4.18,0.8,1.23,334,7.96,0.580,0.948,2.362,1 cup,9,0.40,2,7.8
+"Soybeans (Mature Seeds, Steamed, Cooked)",36575,Generic,https://www.fatsecret.com/calories-nutrition/usda/soybeans-(mature-seeds-steamed-cooked),59,81,6.53,0,4.45,0.8,1.31,355,8.47,0.617,1.009,2.513,100 g,10,0.43,2,8.3
+"Soybeans (Mature Seeds, Steamed, Cooked)",36575,Generic,https://www.fatsecret.com/calories-nutrition/usda/soybeans-(mature-seeds-steamed-cooked),17,23,1.85,0,1.26,0.2,0.37,101,2.40,0.175,0.286,0.712,1 oz,3,0.12,1,2.4
+Classic Eggs Benedict,853454,Brand,https://www.fatsecret.com/calories-nutrition/perkins-restaurant/classic-eggs-benedict,,660,61.00,495,31.00,4.0,,,34.00,13.000,,,1 serving,2200,21.00,,
+Escargots with Garlic Butter,3753447,Brand,https://www.fatsecret.com/calories-nutrition/escal/escargots-with-garlic-butter,,190,3.00,115,17.00,1.0,,,4.00,12.000,,,6 escargots,320,3.00,,
+Falafel,38346,Generic,https://www.fatsecret.com/calories-nutrition/usda/falafel,9,57,5.41,0,3.03,,0.58,99,2.26,0.405,1.729,0.707,"1 patty (approx 2-1/4"" dia)",50,,0,0.3
+Falafel,38346,Generic,https://www.fatsecret.com/calories-nutrition/usda/falafel,54,333,31.84,0,17.80,,3.42,585,13.31,2.383,10.171,4.160,100 g,294,,1,1.6
+Falafel,38346,Generic,https://www.fatsecret.com/calories-nutrition/usda/falafel,15,94,9.03,0,5.05,,0.97,166,3.77,0.676,2.883,1.179,1 oz,83,,0,0.5
+Filet Mignon,2233929,Brand,https://www.fatsecret.com/calories-nutrition/schwans/filet-mignon,,250,0,115,11.00,0,,0,35.00,4.000,0,0,6 oz,370,0,,
+Fried Battered Fish,1941,Generic,https://www.fatsecret.com/calories-nutrition/generic/fish-battered-fried,44,267,8.99,88,15.24,0.3,0.97,437,22.41,3.205,6.636,4.438,"1 fillet (6-1/4"" x 3-1/2"" x 3/8"")",174,0.55,23,0.5
+Fried Battered Fish,1941,Generic,https://www.fatsecret.com/calories-nutrition/generic/fish-battered-fried,33,199,6.71,66,11.37,0.2,0.72,326,16.72,2.392,4.952,3.312,100 g,130,0.41,17,0.4
+Fried Battered Fish,1941,Generic,https://www.fatsecret.com/calories-nutrition/generic/fish-battered-fried,9,56,1.90,19,3.22,0.1,0.20,92,4.74,0.678,1.404,0.939,1 oz boneless,37,0.12,5,0.1
+Fried Battered Fish,1941,Generic,https://www.fatsecret.com/calories-nutrition/generic/fish-battered-fried,28,169,5.70,56,9.66,0.2,0.61,277,14.21,2.033,4.209,2.815,1 serving (85 g),111,0.35,14,0.3
+Fried Battered Fish,1941,Generic,https://www.fatsecret.com/calories-nutrition/generic/fish-battered-fried,9,54,1.81,18,3.07,0.1,0.19,88,4.51,0.646,1.337,0.894,1 oz boneless (yield after cooking),35,0.11,5,0.1
+Duck Foie Gras,6018289,Brand,https://www.fatsecret.com/calories-nutrition/vons/duck-foie-gras,,250,2.00,210,24.00,1.0,,,6.00,7.000,,,2 oz,410,1.00,,
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,7,156,20.33,0,8.01,1.9,0.69,300,1.98,1.869,4.664,1.304,1 order,171,0.33,0,3.1
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,13,274,35.66,0,14.06,3.3,1.21,527,3.48,3.278,8.183,2.288,100 g,300,0.58,0,5.4
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,7,156,20.33,0,8.01,1.9,0.69,300,1.98,1.869,4.664,1.304,1 cup,171,0.33,0,3.1
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,5,96,12.48,0,4.92,1.2,0.42,184,1.22,1.147,2.864,0.801,"1 10 strip portion (1"" to 2"")",105,0.20,0,1.9
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,7,137,17.83,0,7.03,1.7,0.61,264,1.74,1.639,4.091,1.144,"1 10 strip portion (2"" to 3-1/2"")",150,0.29,0,2.7
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,9,192,24.96,0,9.84,2.3,0.85,369,2.44,2.295,5.728,1.601,1 serving (70 g),210,0.41,0,3.8
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,10,214,27.81,0,10.97,2.6,0.94,411,2.71,2.557,6.383,1.784,"1 10 strip portion (3-1/2"" to 4"")",234,0.45,0,4.2
+Potato French Fries,5762,Generic,https://www.fatsecret.com/calories-nutrition/generic/white-potato-french-fries,7,137,17.83,0,7.03,1.7,0.61,264,1.74,1.639,4.091,1.144,"1 10 strip serving, NFS",150,0.29,0,2.7
+French Onion Soup,6836,Generic,https://www.fatsecret.com/calories-nutrition/generic/onion-soup-french,340,369,39.33,36,16.53,2.9,2.05,369,15.91,7.657,6.507,1.366,1 cup,930,3.57,96,3.1
+French Onion Soup,6836,Generic,https://www.fatsecret.com/calories-nutrition/generic/onion-soup-french,141,153,16.32,15,6.86,1.2,0.85,153,6.60,3.177,2.700,0.567,100 g,386,1.48,40,1.3
+French Onion Soup,6836,Generic,https://www.fatsecret.com/calories-nutrition/generic/onion-soup-french,40,43,4.63,4,1.94,0.3,0.24,43,1.87,0.901,0.765,0.161,1 oz,109,0.42,11,0.4
+French Onion Soup,6836,Generic,https://www.fatsecret.com/calories-nutrition/generic/onion-soup-french,340,369,39.33,36,16.53,2.9,2.05,369,15.91,7.657,6.507,1.366,1 serving (241 g),930,3.57,96,3.1
+Plain French Toast,4384,Generic,https://www.fatsecret.com/calories-nutrition/generic/french-toast-plain,76,159,20.02,90,6.13,0.8,1.62,80,5.58,1.585,2.298,1.578,1 regular slice,320,4.87,36,0
+Plain French Toast,4384,Generic,https://www.fatsecret.com/calories-nutrition/generic/french-toast-plain,117,244,30.80,138,9.43,1.2,2.49,123,8.59,2.439,3.535,2.428,100 g,492,7.49,55,0
+Plain French Toast,4384,Generic,https://www.fatsecret.com/calories-nutrition/generic/french-toast-plain,85,178,22.48,101,6.88,0.9,1.82,90,6.27,1.780,2.581,1.772,1 thick slice,359,5.47,40,0
+Plain French Toast,4384,Generic,https://www.fatsecret.com/calories-nutrition/generic/french-toast-plain,69,144,18.17,81,5.56,0.7,1.47,73,5.07,1.439,2.086,1.432,1 thin slice,290,4.42,32,0
+Fried Calamari,584997,Generic,https://www.fatsecret.com/calories-nutrition/generic/calamari-fried,5,12,0.96,21,0.21,0,0.11,23,1.47,0.055,0.036,0.069,1 piece,32,0.06,1,0.4
+Fried Calamari,584997,Generic,https://www.fatsecret.com/calories-nutrition/generic/calamari-fried,48,125,9.90,217,2.17,0.5,1.15,234,15.13,0.569,0.372,0.715,100 g,335,0.66,15,4.0
+Fried Calamari,584997,Generic,https://www.fatsecret.com/calories-nutrition/generic/calamari-fried,72,187,14.85,326,3.25,0.7,1.73,352,22.69,0.854,0.557,1.073,1 cup,502,0.99,23,6.0
+Fried Calamari,584997,Generic,https://www.fatsecret.com/calories-nutrition/generic/calamari-fried,41,106,8.42,185,1.84,0.4,0.98,199,12.86,0.484,0.316,0.608,1 serving (85 g),284,0.56,13,3.4
+Fried Calamari,584997,Generic,https://www.fatsecret.com/calories-nutrition/generic/calamari-fried,14,35,2.81,62,0.61,0.1,0.33,66,4.29,0.161,0.105,0.203,1 oz,95,0.19,4,1.1
+Fried Rice,5099,Generic,https://www.fatsecret.com/calories-nutrition/generic/rice-fried,38,333,41.70,103,12.34,1.4,2.75,202,12.47,2.251,3.776,5.344,1 cup,822,1.50,42,3.4
+Fried Rice,5099,Generic,https://www.fatsecret.com/calories-nutrition/generic/rice-fried,19,168,21.06,52,6.23,0.7,1.39,102,6.30,1.137,1.907,2.699,100 g,415,0.76,21,1.7
+Fried Rice,5099,Generic,https://www.fatsecret.com/calories-nutrition/generic/rice-fried,28,250,31.38,77,9.28,1.0,2.07,152,9.39,1.694,2.841,4.021,1 serving (149 g),618,1.13,31,2.5
+Fried Rice,5099,Generic,https://www.fatsecret.com/calories-nutrition/generic/rice-fried,5,48,5.97,15,1.77,0.2,0.39,29,1.79,0.322,0.541,0.765,1 oz,118,0.22,6,0.5
+Frozen Yogurt,865,Generic,https://www.fatsecret.com/calories-nutrition/generic/yogurt-frozen-ns-as-to-type-of-milk,318,214,39.24,10,2.94,0.6,0.46,456,9.40,1.880,0.824,0.084,1 cup (8 fl oz),120,38.12,24,1.4
+Frozen Yogurt,865,Generic,https://www.fatsecret.com/calories-nutrition/generic/yogurt-frozen-ns-as-to-type-of-milk,159,107,19.62,5,1.47,0.3,0.23,228,4.70,0.940,0.412,0.042,100 g,60,19.06,12,0.7
+Frozen Yogurt,865,Generic,https://www.fatsecret.com/calories-nutrition/generic/yogurt-frozen-ns-as-to-type-of-milk,159,107,19.62,5,1.47,0.3,0.23,228,4.70,0.940,0.412,0.042,1 serving (100 g),60,19.06,12,0.7
+Frozen Yogurt,865,Generic,https://www.fatsecret.com/calories-nutrition/generic/yogurt-frozen-ns-as-to-type-of-milk,159,107,19.62,5,1.47,0.3,0.23,228,4.70,0.940,0.412,0.042,"1 scoop/dip, NFS",60,19.06,12,0.7
+Frozen Yogurt,865,Generic,https://www.fatsecret.com/calories-nutrition/generic/yogurt-frozen-ns-as-to-type-of-milk,107,72,13.15,3,0.98,0.2,0.15,153,3.15,0.630,0.276,0.028,1 small scoop/dip,40,12.77,8,0.5
+Garlic Bread,3469,Generic,https://www.fatsecret.com/calories-nutrition/generic/bread-garlic,11,53,7.30,0,2.04,0.4,0.36,17,1.24,0.395,0.937,0.574,"1 small slice (2-1/2"" x 2"" x 1"")",98,0.07,17,0.0
+Garlic Bread,3469,Generic,https://www.fatsecret.com/calories-nutrition/generic/bread-garlic,66,330,45.62,0,12.78,2.7,2.22,109,7.75,2.466,5.858,3.587,100 g,610,0.42,106,0.2
+Garlic Bread,3469,Generic,https://www.fatsecret.com/calories-nutrition/generic/bread-garlic,19,96,13.23,0,3.71,0.8,0.64,32,2.25,0.715,1.699,1.040,"1 medium slice (4-3/4"" x 4"" x 1/2"")",177,0.12,31,0.1
+Garlic Bread,3469,Generic,https://www.fatsecret.com/calories-nutrition/generic/bread-garlic,27,135,18.70,0,5.24,1.1,0.91,45,3.18,1.011,2.402,1.471,"1 large slice (5"" x 2-1/2"" x 1"")",250,0.17,43,0.1
+Garlic Bread,3469,Generic,https://www.fatsecret.com/calories-nutrition/generic/bread-garlic,19,94,12.93,0,3.62,0.8,0.63,31,2.20,0.699,1.661,1.017,1 oz,173,0.12,30,0.1
+Garlic Bread,3469,Generic,https://www.fatsecret.com/calories-nutrition/generic/bread-garlic,19,96,13.23,0,3.71,0.8,0.64,32,2.25,0.715,1.699,1.040,1 serving (29 g),177,0.12,31,0.1
+Potato Gnocchi,4947,Generic,https://www.fatsecret.com/calories-nutrition/generic/gnocchi-potato,39,250,32.04,30,11.73,1.9,1.33,254,4.44,7.274,2.985,0.570,1 cup,534,1.82,105,3.6
+Potato Gnocchi,4947,Generic,https://www.fatsecret.com/calories-nutrition/generic/gnocchi-potato,21,133,17.04,16,6.24,1.0,0.71,135,2.36,3.869,1.588,0.303,100 g,284,0.97,56,1.9
+Potato Gnocchi,4947,Generic,https://www.fatsecret.com/calories-nutrition/generic/gnocchi-potato,6,38,4.83,5,1.77,0.3,0.20,38,0.67,1.097,0.450,0.086,1 oz,81,0.27,16,0.5
+Potato Gnocchi,4947,Generic,https://www.fatsecret.com/calories-nutrition/generic/gnocchi-potato,5,35,4.43,4,1.62,0.3,0.18,35,0.61,1.006,0.413,0.079,1 piece,74,0.25,15,0.5
+Potato Gnocchi,4947,Generic,https://www.fatsecret.com/calories-nutrition/generic/gnocchi-potato,39,250,32.04,30,11.73,1.9,1.33,254,4.44,7.274,2.985,0.570,1 serving (188 g),534,1.82,105,3.6
+Greek Salad,6284,Generic,https://www.fatsecret.com/calories-nutrition/generic/greek-salad,123,106,3.38,119,7.28,0.9,1.12,179,6.99,3.468,2.447,0.635,1 cup,410,1.98,108,4.9
+Greek Salad,6284,Generic,https://www.fatsecret.com/calories-nutrition/generic/greek-salad,117,101,3.22,113,6.93,0.9,1.07,170,6.66,3.303,2.330,0.605,100 g,390,1.89,103,4.7
+Greek Salad,6284,Generic,https://www.fatsecret.com/calories-nutrition/generic/greek-salad,123,106,3.38,119,7.28,0.9,1.12,179,6.99,3.468,2.447,0.635,1 serving (105 g),410,1.98,108,4.9
+Greek Salad,6284,Generic,https://www.fatsecret.com/calories-nutrition/generic/greek-salad,33,29,0.91,32,1.96,0.3,0.30,48,1.89,0.936,0.661,0.172,1 oz,111,0.54,29,1.3
+Grilled Cheese Sandwich,1336,Generic,https://www.fatsecret.com/calories-nutrition/generic/cheese-sandwich-grilled,235,291,27.85,22,15.77,1.2,2.06,129,9.16,5.978,5.659,3.005,1 sandwich,764,3.98,129,0
+Grilled Cheese Sandwich,1336,Generic,https://www.fatsecret.com/calories-nutrition/generic/cheese-sandwich-grilled,283,350,33.56,27,19.00,1.5,2.48,155,11.04,7.202,6.818,3.620,100 g,920,4.80,156,0
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,64,197,0,78,6.11,0,0.87,616,33.30,1.497,2.245,1.808,"1 medium salmon steak (5/8"" thick)",82,0,54,2.0
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,45,139,0,55,4.30,0,0.61,434,23.45,1.054,1.581,1.273,100 g,58,0,38,1.4
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,13,39,0,16,1.22,0,0.17,123,6.65,0.299,0.448,0.361,1 oz boneless,16,0,11,0.4
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,10,32,0,13,0.99,0,0.14,100,5.39,0.242,0.364,0.293,1 oz boneless (yield after cooking),13,0,9,0.3
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,38,118,0,47,3.66,0,0.52,369,19.93,0.896,1.344,1.082,1 serving (85 g),49,0,32,1.2
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,9,26,0,10,0.82,0,0.12,82,4.46,0.200,0.300,0.242,"1 oz, with bone (yield after bone removed)",11,0,7,0.3
+Cooked Salmon,2058,Generic,https://www.fatsecret.com/calories-nutrition/generic/salmon-cooked,61,189,0,75,5.85,0,0.83,590,31.89,1.433,2.150,1.731,1 cup flaked,79,0,52,1.9
+Guacamole,5571,Generic,https://www.fatsecret.com/calories-nutrition/generic/guacamole,2,23,1.24,0,2.08,1.0,0.08,69,0.29,0.302,1.393,0.258,1 tbsp,22,0.10,1,1.5
+Guacamole,5571,Generic,https://www.fatsecret.com/calories-nutrition/generic/guacamole,12,157,8.51,0,14.31,6.6,0.54,476,1.96,2.075,9.563,1.773,100 g,148,0.71,7,10.4
+Guacamole,5571,Generic,https://www.fatsecret.com/calories-nutrition/generic/guacamole,28,366,19.83,0,33.34,15.4,1.26,1109,4.57,4.835,22.282,4.131,1 cup,345,1.65,16,24.2
+Guacamole,5571,Generic,https://www.fatsecret.com/calories-nutrition/generic/guacamole,3,45,2.41,0,4.06,1.9,0.15,135,0.56,0.588,2.711,0.503,1 oz,42,0.20,2,2.9
+Guacamole,5571,Generic,https://www.fatsecret.com/calories-nutrition/generic/guacamole,3,46,2.47,0,4.15,1.9,0.16,138,0.57,0.602,2.773,0.514,1 serving (29 g),43,0.21,2,3.0
+Pork Gyoza,46827300,Brand,https://www.fatsecret.com/calories-nutrition/shirakiku/pork-gyoza,40,240,34.00,15,8.00,2.0,2.70,,9.00,2.500,,,7 pieces,510,3.00,,
+Ground Beef (80% Lean / 20% Fat),40406,Generic,https://www.fatsecret.com/calories-nutrition/usda/ground-beef-(80%25-lean---20%25-fat),5,71,0,20,5.60,0,0.54,76,4.81,2.148,2.452,0.146,1 oz,19,0,0,0.0
+Ground Beef (80% Lean / 20% Fat),40406,Generic,https://www.fatsecret.com/calories-nutrition/usda/ground-beef-(80%25-lean---20%25-fat),18,254,0,71,20.00,0,1.94,270,17.17,7.672,8.757,0.521,100 g,67,0,0,0
+Ground Beef (80% Lean / 20% Fat),40406,Generic,https://www.fatsecret.com/calories-nutrition/usda/ground-beef-(80%25-lean---20%25-fat),82,1152,0,322,90.72,0,8.80,1225,77.88,34.800,39.722,2.363,1 lb,304,0,0,0.0
+Ground Beef (80% Lean / 20% Fat),40406,Generic,https://www.fatsecret.com/calories-nutrition/usda/ground-beef-(80%25-lean---20%25-fat),5,72,0,20,5.67,0,0.55,77,4.87,2.175,2.483,0.148,1 oz,19,0,0,0.0
+Ground Beef (80% Lean / 20% Fat),40406,Generic,https://www.fatsecret.com/calories-nutrition/usda/ground-beef-(80%25-lean---20%25-fat),20,287,0,80,22.60,0,2.19,305,19.40,8.669,9.895,0.589,1 serving ( 4 oz ),76,0,0,0.0
+Hot and Sour Soup,3027,Generic,https://www.fatsecret.com/calories-nutrition/generic/hot-and-sour-soup,29,163,4.95,34,7.91,0.2,1.22,373,15.10,2.694,3.370,1.110,1 cup,1554,1.59,0,0.5
+Hot and Sour Soup,3027,Generic,https://www.fatsecret.com/calories-nutrition/generic/hot-and-sour-soup,12,67,2.03,14,3.24,0.1,0.50,153,6.19,1.104,1.381,0.455,100 g,637,0.65,0,0.2
+Hot and Sour Soup,3027,Generic,https://www.fatsecret.com/calories-nutrition/generic/hot-and-sour-soup,29,163,4.95,34,7.91,0.2,1.22,373,15.10,2.694,3.370,1.110,1 serving (244 g),1554,1.59,0,0.5
+Hot and Sour Soup,3027,Generic,https://www.fatsecret.com/calories-nutrition/generic/hot-and-sour-soup,3,19,0.58,4,0.92,0,0.14,43,1.75,0.313,0.392,0.129,1 oz,181,0.18,0,0.1
+Frankfurter or Hot Dog on Bun,2839,Generic,https://www.fatsecret.com/calories-nutrition/generic/frankfurter-or-hot-dog-plain-on-bun,56,250,18.90,24,14.98,0.8,1.77,116,9.06,5.617,7.030,2.042,1 frankfurter on bun,717,2.29,8,0.0
+Frankfurter or Hot Dog on Bun,2839,Generic,https://www.fatsecret.com/calories-nutrition/generic/frankfurter-or-hot-dog-plain-on-bun,66,294,22.24,28,17.62,0.9,2.08,136,10.66,6.608,8.270,2.402,100 g,844,2.69,10,0
+Huevos Rancheros,3136,Generic,https://www.fatsecret.com/calories-nutrition/generic/huevos-rancheros,54,140,10.07,216,7.86,1.8,1.38,281,8.13,1.959,2.688,2.218,1 egg,459,2.45,81,1.2
+Huevos Rancheros,3136,Generic,https://www.fatsecret.com/calories-nutrition/generic/huevos-rancheros,46,119,8.53,183,6.66,1.5,1.17,238,6.89,1.660,2.278,1.880,100 g,389,2.08,69,1.0
+Huevos Rancheros,3136,Generic,https://www.fatsecret.com/calories-nutrition/generic/huevos-rancheros,54,140,10.07,216,7.86,1.8,1.38,281,8.13,1.959,2.688,2.218,"1 egg, NS as to size",459,2.45,81,1.2
+Hummus,38345,Generic,https://www.fatsecret.com/calories-nutrition/usda/hummus,7,27,3.02,0,1.29,0.6,0.24,26,0.73,0.168,0.737,0.312,1 tbsp,36,0.07,0,1.2
+Hummus,38345,Generic,https://www.fatsecret.com/calories-nutrition/usda/hummus,49,177,20.12,0,8.59,4.0,1.57,173,4.86,1.123,4.912,2.083,100 g,242,0.46,0,7.9
+Hummus,38345,Generic,https://www.fatsecret.com/calories-nutrition/usda/hummus,121,435,49.50,0,21.13,9.8,3.86,426,11.96,2.763,12.084,5.124,1 cup,595,1.13,0,19.4
+Hummus,38345,Generic,https://www.fatsecret.com/calories-nutrition/usda/hummus,14,50,5.70,0,2.44,1.1,0.45,49,1.38,0.318,1.393,0.591,1 oz,69,0.13,0,2.2
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,168,267,32.45,53,14.26,0.9,0.19,269,4.68,8.801,3.897,0.575,1 cup,98,29.66,146,0.8
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,126,201,24.40,40,10.72,0.7,0.14,202,3.52,6.618,2.930,0.432,100 g,74,22.30,110,0.6
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,55,88,10.74,18,4.72,0.3,0.06,89,1.55,2.912,1.289,0.190,1 small scoop/dip,33,9.81,48,0.3
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,83,133,16.10,26,7.08,0.5,0.09,133,2.32,4.368,1.934,0.285,1 medium scoop/dip,49,14.72,73,0.4
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,83,133,16.10,26,7.08,0.5,0.09,133,2.32,4.368,1.934,0.285,1 serving (66 g),49,14.72,73,0.4
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,112,179,21.72,36,9.54,0.6,0.12,180,3.13,5.890,2.608,0.385,1 large scoop/dip,66,19.85,98,0.5
+Ice Cream,1107,Generic,https://www.fatsecret.com/calories-nutrition/generic/ice-cream,36,57,6.92,11,3.04,0.2,0.04,57,1.00,1.876,0.831,0.123,1 oz,21,6.32,31,0.2
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,247,336,35.43,49,12.38,2.7,2.86,391,20.52,6.384,4.038,0.688,"1 piece (1/6 8"" square, approx 2-1/2"" x 4"")",744,5.60,74,7.2
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,120,163,17.20,24,6.01,1.3,1.39,190,9.96,3.099,1.960,0.334,100 g,361,2.72,36,3.5
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,34,46,4.88,7,1.70,0.4,0.39,54,2.82,0.879,0.556,0.095,1 oz,102,0.77,10,1.0
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,278,378,39.90,56,13.94,3.0,3.22,441,23.11,7.190,4.547,0.775,"1 piece (1/8 7"" x 12"", approx 3-1/2"" x 4"")",838,6.31,84,8.1
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,300,408,43.00,60,15.02,3.3,3.47,475,24.90,7.748,4.900,0.835,1 cup,902,6.80,90,8.8
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,247,336,35.43,49,12.38,2.7,2.86,391,20.52,6.384,4.038,0.688,1 serving (206 g),744,5.60,74,7.2
+Lasagna with Meat,4989,Generic,https://www.fatsecret.com/calories-nutrition/generic/lasagna-with-meat,13,18,1.89,3,0.66,0.1,0.15,21,1.10,0.341,0.216,0.037,1 cubic inch,40,0.30,4,0.4
+Lobster Bisque,3055,Generic,https://www.fatsecret.com/calories-nutrition/generic/lobster-bisque,263,248,12.67,62,12.77,0.2,0.47,528,20.01,3.970,5.158,2.780,1 cup,848,9.92,193,0.2
+Lobster Bisque,3055,Generic,https://www.fatsecret.com/calories-nutrition/generic/lobster-bisque,106,100,5.11,25,5.15,0.1,0.19,213,8.07,1.601,2.080,1.121,100 g,342,4.00,78,0.1
+Lobster Bisque,3055,Generic,https://www.fatsecret.com/calories-nutrition/generic/lobster-bisque,30,28,1.45,7,1.46,0,0.05,60,2.29,0.454,0.590,0.318,1 oz,97,1.13,22,0.0
+Lobster Bisque,3055,Generic,https://www.fatsecret.com/calories-nutrition/generic/lobster-bisque,263,248,12.67,62,12.77,0.2,0.47,528,20.01,3.970,5.158,2.780,1 serving (248 g),848,9.92,193,0.2
+Lobster Roll Sandwich Box (Catering),75157748,Brand,https://www.fatsecret.com/calories-nutrition/dangelo/lobster-roll-sandwich-box-(catering),,410,31.00,150,30.00,0,,,22.00,3.500,,,1 serving,860,5.00,,
+Macaroni or Noodles with Cheese,5057,Generic,https://www.fatsecret.com/calories-nutrition/generic/macaroni-or-noodles-with-cheese,377,493,52.15,41,22.84,2.7,2.43,328,19.29,9.625,7.849,3.579,1 cup,953,8.72,219,0
+Macaroni or Noodles with Cheese,5057,Generic,https://www.fatsecret.com/calories-nutrition/generic/macaroni-or-noodles-with-cheese,155,203,21.46,17,9.40,1.1,1.00,135,7.94,3.961,3.230,1.473,100 g,392,3.59,90,0
+Macaroni or Noodles with Cheese,5057,Generic,https://www.fatsecret.com/calories-nutrition/generic/macaroni-or-noodles-with-cheese,44,58,6.08,5,2.66,0.3,0.28,38,2.25,1.123,0.916,0.418,1 oz,111,1.02,26,0
+Macaroni or Noodles with Cheese,5057,Generic,https://www.fatsecret.com/calories-nutrition/generic/macaroni-or-noodles-with-cheese,377,493,52.15,41,22.84,2.7,2.43,328,19.29,9.625,7.849,3.579,1 serving (243 g),953,8.72,219,0
+Macarons,25545924,Brand,https://www.fatsecret.com/calories-nutrition/private-selection/macarons,,100,12.00,15,5.00,1.0,,50,2.00,1.500,,,2 cookies,15,11.00,,
+Miso Soup,3301,Generic,https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth,62,84,7.78,0,3.36,1.9,1.82,367,6.02,0.622,1.085,1.394,1 cup,998,2.59,233,4.6
+Miso Soup,3301,Generic,https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth,26,35,3.24,0,1.40,0.8,0.76,153,2.51,0.259,0.452,0.581,100 g,416,1.08,97,1.9
+Miso Soup,3301,Generic,https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth,62,84,7.78,0,3.36,1.9,1.82,367,6.02,0.622,1.085,1.394,1 serving (240 g),998,2.59,233,4.6
+Miso Soup,3301,Generic,https://www.fatsecret.com/calories-nutrition/generic/soybean-soup-miso-broth,7,10,0.92,0,0.40,0.2,0.22,43,0.71,0.073,0.128,0.165,1 oz,118,0.31,27,0.5
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,2,12,0.35,3,0.66,0,0.33,27,1.10,0.124,0.261,0.189,1 medium,54,0,9,0.6
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,30,150,4.41,32,8.25,0,4.12,334,13.78,1.555,3.261,2.362,100 g,674,0,109,7.4
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,1,7,0.22,2,0.41,0,0.21,17,0.69,0.078,0.163,0.118,1 small,34,0,5,0.4
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,3,15,0.44,3,0.82,0,0.41,33,1.38,0.156,0.326,0.236,1 large,67,0,11,0.7
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,8,42,1.23,9,2.31,0,1.15,94,3.86,0.435,0.913,0.661,1 oz of,189,0,31,2.1
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,25,127,3.75,27,7.01,0,3.50,284,11.71,1.322,2.772,2.008,1 serving (85 g),573,0,93,6.3
+Cooked Mussels,2163,Generic,https://www.fatsecret.com/calories-nutrition/generic/mussels-cooked,45,225,6.62,48,12.38,0,6.18,501,20.67,2.333,4.891,3.543,1 cup of,1011,0,164,11.1
+Nachos with Cheese,39915,Generic,https://www.fatsecret.com/calories-nutrition/usda/nachos-with-cheese,272,346,36.33,18,18.95,,1.28,172,9.10,7.780,7.994,2.233,1 portion (6-8 nachos),816,,149,1.2
+Nachos with Cheese,39915,Generic,https://www.fatsecret.com/calories-nutrition/usda/nachos-with-cheese,241,306,32.15,16,16.77,,1.13,152,8.05,6.885,7.074,1.976,100 g,722,,132,1.1
+Nachos with Cheese,39915,Generic,https://www.fatsecret.com/calories-nutrition/usda/nachos-with-cheese,68,87,9.11,5,4.75,,0.32,43,2.28,1.952,2.005,0.560,1 oz,205,,37,0.3
+2 Egg Cheese Omelette,6847018,Brand,https://www.fatsecret.com/calories-nutrition/village-inn/2-egg-cheese-omelette,,300,2.00,500,27.00,0,,,20.00,11.000,,,1 serving,500,0,,
+Onion Rings (Breaded and Fried),39967,Generic,https://www.fatsecret.com/calories-nutrition/usda/onion-rings-(breaded-and-fried),73,276,31.32,14,15.51,,0.85,129,3.70,6.953,6.651,0.665,1 portion (8-9 onion rings),430,,1,0.6
+Onion Rings (Breaded and Fried),39967,Generic,https://www.fatsecret.com/calories-nutrition/usda/onion-rings-(breaded-and-fried),88,332,37.74,17,18.69,,1.02,156,4.46,8.377,8.013,0.801,100 g,518,,1,0.7
+Onion Rings (Breaded and Fried),39967,Generic,https://www.fatsecret.com/calories-nutrition/usda/onion-rings-(breaded-and-fried),25,94,10.70,5,5.30,,0.29,44,1.26,2.375,2.272,0.227,1 oz,147,,0,0.2
+Oysters,2165,Generic,https://www.fatsecret.com/calories-nutrition/generic/oysters-raw,22,33,1.88,25,1.18,0,3.20,75,3.38,0.371,0.151,0.465,1 pacific,101,0,14,1.8
+Oysters,2165,Generic,https://www.fatsecret.com/calories-nutrition/generic/oysters-raw,6,10,0.55,7,0.34,0,0.93,22,0.99,0.108,0.044,0.136,1 eastern,30,0,4,0.5
+Oysters,2165,Generic,https://www.fatsecret.com/calories-nutrition/generic/oysters-raw,45,68,3.91,53,2.46,0,6.66,156,7.05,0.772,0.314,0.968,100 g,211,0,30,3.7
+Oysters,2165,Generic,https://www.fatsecret.com/calories-nutrition/generic/oysters-raw,6,10,0.55,7,0.34,0,0.93,22,0.99,0.108,0.044,0.136,"1 oyster, NFS, raw",30,0,4,0.5
+Oysters,2165,Generic,https://www.fatsecret.com/calories-nutrition/generic/oysters-raw,13,19,1.11,15,0.70,0,1.89,44,2.00,0.219,0.089,0.274,"1 oz, without shell",60,0,9,1.0
+Oysters,2165,Generic,https://www.fatsecret.com/calories-nutrition/generic/oysters-raw,38,58,3.32,45,2.09,0,5.66,133,5.99,0.656,0.267,0.823,1 serving (85 g),179,0,26,3.1
+Pad Thai,5873757,Generic,https://www.fatsecret.com/calories-nutrition/generic/pad-thai,58,357,47.23,99,13.39,3.1,2.51,278,12.16,2.203,3.953,6.093,1 cup,927,2.48,112,8.6
+Pad Thai,5873757,Generic,https://www.fatsecret.com/calories-nutrition/generic/pad-thai,28,170,22.49,47,6.38,1.5,1.19,132,5.79,1.049,1.882,2.901,100 g,442,1.18,53,4.1
+Pad Thai,5873757,Generic,https://www.fatsecret.com/calories-nutrition/generic/pad-thai,58,357,47.23,99,13.39,3.1,2.51,278,12.16,2.203,3.953,6.093,1 serving (210 g),927,2.48,112,8.6
+Pad Thai,5873757,Generic,https://www.fatsecret.com/calories-nutrition/generic/pad-thai,8,48,6.38,13,1.81,0.4,0.34,38,1.64,0.297,0.534,0.823,1 oz,125,0.33,15,1.2
+Paella,2568,Generic,https://www.fatsecret.com/calories-nutrition/generic/paella,46,379,40.03,58,13.06,1.4,6.58,382,22.85,2.863,7.378,1.836,1 cup,1450,1.49,41,11.8
+Paella,2568,Generic,https://www.fatsecret.com/calories-nutrition/generic/paella,19,158,16.68,24,5.44,0.6,2.74,159,9.52,1.193,3.074,0.765,100 g,604,0.62,17,4.9
+Paella,2568,Generic,https://www.fatsecret.com/calories-nutrition/generic/paella,46,379,40.03,58,13.06,1.4,6.58,382,22.85,2.863,7.378,1.836,1 serving (240 g),1450,1.49,41,11.8
+Paella,2568,Generic,https://www.fatsecret.com/calories-nutrition/generic/paella,5,45,4.73,7,1.54,0.2,0.78,45,2.70,0.338,0.871,0.217,1 oz,171,0.18,5,1.4
+Plain Pancakes,39009,Generic,https://www.fatsecret.com/calories-nutrition/usda/plain-pancakes,83,86,10.75,22,3.69,,0.68,50,2.43,0.806,0.940,1.690,"1 pancake (4"" dia)",167,,21,0.1
+Plain Pancakes,39009,Generic,https://www.fatsecret.com/calories-nutrition/usda/plain-pancakes,219,227,28.30,59,9.70,,1.80,132,6.40,2.122,2.474,4.447,100 g,439,,54,0.3
+Plain Pancakes,39009,Generic,https://www.fatsecret.com/calories-nutrition/usda/plain-pancakes,169,175,21.79,45,7.47,,1.39,102,4.93,1.634,1.905,3.424,"1 pancake (6"" dia)",338,,42,0.2
+Plain Pancakes,39009,Generic,https://www.fatsecret.com/calories-nutrition/usda/plain-pancakes,62,64,8.02,17,2.75,,0.51,37,1.81,0.602,0.701,1.261,1 oz,124,,15,0.1
+Panna Cotta,4303280,Generic,https://www.fatsecret.com/calories-nutrition/generic/panna-cotta,25,223,23.38,45,12.33,0,0.03,37,1.08,7.677,3.562,0.458,100 g,38,22.23,137,0.2
+Panna Cotta,4303280,Generic,https://www.fatsecret.com/calories-nutrition/generic/panna-cotta,57,507,53.08,102,28.00,0,0.08,83,2.46,17.426,8.085,1.040,1 cup,87,50.47,310,0.4
+Panna Cotta,4303280,Generic,https://www.fatsecret.com/calories-nutrition/generic/panna-cotta,28,255,26.66,51,14.06,0,0.04,42,1.24,8.751,4.060,0.522,1 serving (114 g),44,25.35,156,0.2
+Panna Cotta,4303280,Generic,https://www.fatsecret.com/calories-nutrition/generic/panna-cotta,7,63,6.63,13,3.50,0,0.01,10,0.31,2.176,1.010,0.130,1 oz,11,6.30,39,0.0
+"Duck Meat and Skin (Roasted, Cooked)",34525,Generic,https://www.fatsecret.com/calories-nutrition/usda/duck-meat-and-skin-(roasted-cooked),15,472,0,118,39.69,0,3.78,286,26.59,13.538,18.060,5.110,1 cup chopped or diced,83,0,88,0
+"Duck Meat and Skin (Roasted, Cooked)",34525,Generic,https://www.fatsecret.com/calories-nutrition/usda/duck-meat-and-skin-(roasted-cooked),11,337,0,84,28.35,0,2.70,204,18.99,9.670,12.900,3.650,100 g,59,0,63,0
+"Duck Meat and Skin (Roasted, Cooked)",34525,Generic,https://www.fatsecret.com/calories-nutrition/usda/duck-meat-and-skin-(roasted-cooked),3,96,0,24,8.04,0,0.77,58,5.38,2.741,3.657,1.035,1 oz,17,0,18,0.0
+"Duck Meat and Skin (Roasted, Cooked)",34525,Generic,https://www.fatsecret.com/calories-nutrition/usda/duck-meat-and-skin-(roasted-cooked),42,1287,0,321,108.30,0,10.31,779,72.54,36.939,49.278,13.943,1/2 duck,225,0,241,0.0
+"Duck Meat and Skin (Roasted, Cooked)",34525,Generic,https://www.fatsecret.com/calories-nutrition/usda/duck-meat-and-skin-(roasted-cooked),19,583,0,145,49.05,0,4.67,353,32.85,16.729,22.317,6.314,1 unit (yield from 1 lb ready-to-cook duck),102,0,109,0.0
+Vietnamese Style Pho Soup Bowl,32163270,Brand,https://www.fatsecret.com/calories-nutrition/annie-chuns/vietnamese-style-pho-soup-bowl,40,300,64.00,0,1.00,6.0,2.00,90,10.00,0,,1.000,1 bowl,890,5.00,,
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,181,237,26.08,21,10.10,1.6,1.60,138,10.60,4.304,2.823,1.776,"1 piece (1/8 12"" dia)",462,3.06,68,0.3
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,210,276,30.33,24,11.74,1.9,1.86,161,12.33,5.005,3.283,2.065,100 g,537,3.56,79,0.3
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,2575,3384,371.85,294,143.93,23.3,22.80,1974,151.17,61.361,40.250,25.317,"1 pizza (16"" dia)",6584,43.65,969,3.7
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,252,331,36.40,29,14.09,2.3,2.23,193,14.80,6.006,3.940,2.478,"1 miniature (5"" dia)",644,4.27,95,0.4
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,645,847,93.11,74,36.04,5.8,5.71,494,37.85,15.365,10.079,6.340,"1 small (8"" dia)",1649,10.93,243,0.9
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,60,78,8.60,7,3.33,0.5,0.53,46,3.50,1.419,0.931,0.585,1 oz,152,1.01,22,0.1
+Cheese Pizza,4881,Generic,https://www.fatsecret.com/calories-nutrition/generic/pizza-cheese,2264,2975,326.96,259,126.56,20.5,20.05,1736,132.92,53.954,35.391,22.261,"1 large (15"" dia)",5789,38.38,852,3.2
+"Pork Chops (Top Loin, Boneless)",36081,Generic,https://www.fatsecret.com/calories-nutrition/usda/pork-chops-(top-loin-boneless),2,41,0,16,1.67,0,0.16,129,6.05,0.569,0.656,0.091,1 oz,50,0,1,0.0
+"Pork Chops (Top Loin, Boneless)",36081,Generic,https://www.fatsecret.com/calories-nutrition/usda/pork-chops-(top-loin-boneless),8,144,0,57,5.89,0,0.57,454,21.35,2.006,2.314,0.320,100 g,178,0,2,0
+Poutine (Small),265853,Brand,https://www.fatsecret.com/calories-nutrition/new-york-fries/poutine-(small),,710,75.00,45,38.00,5.0,,,19.00,10.000,,,1 serving,990,2.00,,
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,3,112,0,32,7.27,0,1.03,123,10.88,2.861,3.089,0.263,"1 medium slice (approx 4-1/2"" x 2-1/2"" x 1/4"")",91,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,2,75,0,22,4.91,0,0.69,83,7.35,1.931,2.085,0.178,1 oz boneless,62,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,8,266,0,77,17.32,0,2.45,293,25.91,6.812,7.355,0.626,100 g,217,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,5,168,0,48,10.91,0,1.54,184,16.32,4.292,4.634,0.395,"1 thick slice (approx 4-1/2"" x 2-1/2"" x 3/8"")",137,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,2,58,0,17,3.81,0,0.54,64,5.70,1.499,1.618,0.138,1 oz boneless (yield after cooking),48,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,2,58,0,17,3.81,0,0.54,64,5.70,1.499,1.618,0.138,"1 oz, with bone (yield after bone removed)",48,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,2,56,0,16,3.64,0,0.51,61,5.44,1.431,1.545,0.132,"1 thin slice (approx 4-1/2"" x 2-1/2"" x 1/8"")",46,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,1,45,0,13,2.94,0,0.42,50,4.40,1.158,1.250,0.106,"1 oz, with bone (yield after cooking, bone removed)",37,0,0,0
+Prime Rib,475002,Generic,https://www.fatsecret.com/calories-nutrition/generic/beef-standing-rib-roast,7,226,0,65,14.72,0,2.08,249,22.02,5.791,6.252,0.532,1 serving (85 g),185,0,0,0
+Pork Barbecue Sandwich or Sloppy Joe on Bun,2803,Generic,https://www.fatsecret.com/calories-nutrition/generic/pork-barbecue-sandwich-or-sloppy-joe-on-bun,93,318,33.95,50,9.19,2.0,2.96,404,23.23,2.747,3.705,1.927,1 barbecue sandwich,908,6.10,2,5.8
+Pork Barbecue Sandwich or Sloppy Joe on Bun,2803,Generic,https://www.fatsecret.com/calories-nutrition/generic/pork-barbecue-sandwich-or-sloppy-joe-on-bun,50,171,18.25,27,4.94,1.1,1.59,217,12.49,1.477,1.992,1.036,100 g,488,3.28,1,3.1
+Ramen Noodle Soup - Chicken Flavor,145482,Brand,https://www.fatsecret.com/calories-nutrition/maruchan/ramen-noodle-soup---chicken-flavor,,190,27.00,0,7.00,1.0,10.00,,4.00,3.500,,,1/2 block noodles with seasoning,830,1.00,,
+Cheese Filled Ravioli,5005,Generic,https://www.fatsecret.com/calories-nutrition/generic/ravioli-cheese-filled-no-sauce,152,285,32.35,162,10.72,1.1,2.50,128,13.58,5.729,3.326,0.831,1 cup,1022,0.46,107,0
+Cheese Filled Ravioli,5005,Generic,https://www.fatsecret.com/calories-nutrition/generic/ravioli-cheese-filled-no-sauce,95,178,20.22,101,6.70,0.7,1.56,80,8.49,3.581,2.079,0.519,100 g,639,0.29,67,0
+Cheese Filled Ravioli,5005,Generic,https://www.fatsecret.com/calories-nutrition/generic/ravioli-cheese-filled-no-sauce,14,27,3.03,15,1.01,0.1,0.23,12,1.27,0.537,0.312,0.078,1 piece,96,0.04,10,0
+Cheese Filled Ravioli,5005,Generic,https://www.fatsecret.com/calories-nutrition/generic/ravioli-cheese-filled-no-sauce,152,285,32.35,162,10.72,1.1,2.50,128,13.58,5.729,3.326,0.831,1 serving (160 g),1022,0.46,107,0
+Cheese Filled Ravioli,5005,Generic,https://www.fatsecret.com/calories-nutrition/generic/ravioli-cheese-filled-no-sauce,27,50,5.73,29,1.90,0.2,0.44,23,2.41,1.015,0.589,0.147,1 oz,181,0.08,19,0
+Red Velvet Cake,6098856,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-red-velvet,30,293,37.45,43,13.74,1.2,0.76,85,5.45,4.061,7.948,1.028,1 slice,249,13.89,59,0.1
+Red Velvet Cake,6098856,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-red-velvet,38,367,46.81,54,17.18,1.4,0.96,106,6.81,5.076,9.934,1.285,100 g,311,17.37,74,0.1
+Red Velvet Cake,6098856,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-red-velvet,11,104,13.27,15,4.87,0.4,0.27,30,1.93,1.439,2.816,0.364,1 oz,88,4.92,21,0.0
+Red Velvet Cake,6098856,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-red-velvet,30,293,37.45,43,13.74,1.2,0.76,85,5.45,4.061,7.948,1.028,1 serving (80 g),249,13.89,59,0.1
+Creamy Parmesan Risotto,70594,Brand,https://www.fatsecret.com/calories-nutrition/lundberg/creamy-parmesan-risotto,,140,27.00,5,1.50,1.0,,72,5.00,0.500,0,0,1/2 cup cooked,490,1.00,,
+Pastry filled with Potatoes and Peas (Fried),4956,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-filled-with-potatoes-and-peas-fried,27,308,32.21,9,17.86,1.7,1.78,185,4.67,3.932,5.836,7.121,1 regular samosa,816,1.26,45,4.5
+Pastry filled with Potatoes and Peas (Fried),4956,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-filled-with-potatoes-and-peas-fried,27,308,32.21,9,17.86,1.7,1.78,185,4.67,3.932,5.836,7.121,"1 samosa, NFS",816,1.26,45,4.5
+Pastry filled with Potatoes and Peas (Fried),4956,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-filled-with-potatoes-and-peas-fried,27,308,32.21,9,17.86,1.7,1.78,185,4.67,3.932,5.836,7.121,100 g,816,1.26,45,4.5
+Pastry filled with Potatoes and Peas (Fried),4956,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-filled-with-potatoes-and-peas-fried,27,308,32.21,9,17.86,1.7,1.78,185,4.67,3.932,5.836,7.121,1 serving (100 g),816,1.26,45,4.5
+Pastry filled with Potatoes and Peas (Fried),4956,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-filled-with-potatoes-and-peas-fried,2,28,2.90,1,1.61,0.2,0.16,17,0.42,0.354,0.525,0.641,1 miniature samosa,73,0.11,4,0.4
+Pastry filled with Potatoes and Peas (Fried),4956,Generic,https://www.fatsecret.com/calories-nutrition/generic/pastry-filled-with-potatoes-and-peas-fried,8,87,9.13,3,5.06,0.5,0.50,52,1.32,1.115,1.655,2.019,1 oz,231,0.36,13,1.3
+Salmon Sashimi,437027,Generic,https://www.fatsecret.com/calories-nutrition/generic/sashimi-salmon,10,41,0,13,1.68,0,0.16,120,6.13,0.357,0.605,0.565,1 piece,13,0,9,0.3
+Salmon Sashimi,437027,Generic,https://www.fatsecret.com/calories-nutrition/generic/sashimi-salmon,36,146,0,45,5.93,0,0.56,423,21.62,1.260,2.134,1.992,100 g,46,0,30,1.0
+Salmon Sashimi,437027,Generic,https://www.fatsecret.com/calories-nutrition/generic/sashimi-salmon,10,41,0,13,1.68,0,0.16,120,6.13,0.357,0.605,0.565,1 oz,13,0,9,0.3
+Salmon Sashimi,437027,Generic,https://www.fatsecret.com/calories-nutrition/generic/sashimi-salmon,40,164,0,50,6.64,0,0.63,474,24.21,1.411,2.390,2.231,1 serving (112 g),52,0,34,1.1
+Salmon Sashimi,437027,Generic,https://www.fatsecret.com/calories-nutrition/generic/sashimi-salmon,60,242,0,75,9.84,0,0.93,702,35.89,2.092,3.542,3.307,1 cup,76,0,50,1.7
+Scallops,2173,Generic,https://www.fatsecret.com/calories-nutrition/generic/scallops-cooked,8,35,1.68,9,1.75,0.1,0.15,54,2.90,0.355,0.706,0.538,"1 scallop (2"" x 1-1/4"" x 3/4"")",78,0.13,4,0.4
+Scallops,2173,Generic,https://www.fatsecret.com/calories-nutrition/generic/scallops-cooked,48,217,10.49,54,10.96,0.5,0.92,337,18.14,2.216,4.415,3.360,100 g,487,0.82,22,2.3
+Scallops,2173,Generic,https://www.fatsecret.com/calories-nutrition/generic/scallops-cooked,14,62,2.97,15,3.11,0.1,0.26,96,5.14,0.628,1.252,0.953,1 oz cooked,138,0.23,6,0.7
+Scallops,2173,Generic,https://www.fatsecret.com/calories-nutrition/generic/scallops-cooked,41,184,8.92,46,9.32,0.4,0.78,286,15.42,1.884,3.753,2.856,1 serving (85 g),414,0.70,19,2.0
+Scallops,2173,Generic,https://www.fatsecret.com/calories-nutrition/generic/scallops-cooked,64,291,14.06,72,14.69,0.7,1.23,452,24.31,2.969,5.916,4.502,"1 cup raw, yield cooked",653,1.10,29,3.1
+Seaweed Salad,5491247,Brand,https://www.fatsecret.com/calories-nutrition/sushiya/seaweed-salad,,130,23.00,0,4.50,3.0,,,3.00,0.500,,,1 cup,880,4.00,,
+Spicy Cajun Shrimp & White Cheddar Grits,25683297,Brand,https://www.fatsecret.com/calories-nutrition/home-chef/spicy-cajun-shrimp-white-cheddar-grits,,553,41.00,,32.00,,,,29.00,,,,1 serving,1728,,,
+Spaghetti Bolognese,4524271,Generic,https://www.fatsecret.com/calories-nutrition/generic/spaghetti-with-bolognese-sauce,40,364,45.28,30,12.73,4.1,3.97,625,17.73,2.341,6.237,2.813,1 cup,511,6.99,28,9.7
+Spaghetti Bolognese,4524271,Generic,https://www.fatsecret.com/calories-nutrition/generic/spaghetti-with-bolognese-sauce,16,146,18.18,12,5.11,1.7,1.59,251,7.12,0.940,2.505,1.130,100 g,205,2.81,11,3.9
+Spaghetti Bolognese,4524271,Generic,https://www.fatsecret.com/calories-nutrition/generic/spaghetti-with-bolognese-sauce,40,364,45.28,30,12.73,4.1,3.97,625,17.73,2.341,6.237,2.813,1 serving (249 g),511,6.99,28,9.7
+Spaghetti Bolognese,4524271,Generic,https://www.fatsecret.com/calories-nutrition/generic/spaghetti-with-bolognese-sauce,5,41,5.16,3,1.45,0.5,0.45,71,2.02,0.267,0.710,0.320,1 oz,58,0.80,3,1.1
+Pasta with Carbonara Sauce,5071,Generic,https://www.fatsecret.com/calories-nutrition/generic/pasta-with-carbonara-sauce,62,384,51.70,94,10.67,3.0,2.71,187,16.18,3.680,4.036,1.528,1 cup,432,1.85,30,0.8
+Pasta with Carbonara Sauce,5071,Generic,https://www.fatsecret.com/calories-nutrition/generic/pasta-with-carbonara-sauce,31,191,25.72,47,5.31,1.5,1.35,93,8.05,1.831,2.008,0.760,100 g,215,0.92,15,0.4
+Pasta with Carbonara Sauce,5071,Generic,https://www.fatsecret.com/calories-nutrition/generic/pasta-with-carbonara-sauce,62,384,51.70,94,10.67,3.0,2.71,187,16.18,3.680,4.036,1.528,1 serving (201 g),432,1.85,30,0.8
+Pasta with Carbonara Sauce,5071,Generic,https://www.fatsecret.com/calories-nutrition/generic/pasta-with-carbonara-sauce,9,54,7.29,13,1.51,0.4,0.38,26,2.28,0.519,0.569,0.215,1 oz,61,0.26,4,0.1
+Vegetable Spring Roll,499712,Generic,https://www.fatsecret.com/calories-nutrition/generic/spring-roll-meatless,11,63,7.44,23,2.84,0.6,0.63,75,1.99,0.557,1.232,0.819,1 spring roll,207,0.75,10,2.5
+Vegetable Spring Roll,499712,Generic,https://www.fatsecret.com/calories-nutrition/generic/spring-roll-meatless,18,98,11.63,36,4.43,1.0,0.98,117,3.10,0.871,1.926,1.280,100 g,324,1.18,16,3.9
+"Beef Top Sirloin (Trimmed to 1/8"" Fat)",37657,Generic,https://www.fatsecret.com/calories-nutrition/usda/beef-top-sirloin-(trimmed-to-1-8-fat),7,57,0,13,3.60,0,0.42,89,5.76,1.454,1.542,0.137,1 oz,15,0,0,0.0
+"Beef Top Sirloin (Trimmed to 1/8"" Fat)",37657,Generic,https://www.fatsecret.com/calories-nutrition/usda/beef-top-sirloin-(trimmed-to-1-8-fat),24,201,0,47,12.71,0,1.48,315,20.30,5.127,5.440,0.483,100 g,52,0,0,0
+"Beef Top Sirloin (Trimmed to 1/8"" Fat)",37657,Generic,https://www.fatsecret.com/calories-nutrition/usda/beef-top-sirloin-(trimmed-to-1-8-fat),109,912,0,213,57.65,0,6.71,1429,92.08,23.256,24.676,2.191,1 lb,236,0,0,0.0
+Shortcake Sponge with Whipped Cream and Fruit,3929,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-shortcake-sponge-type-with-whipped-cream-and-fruit,32,211,39.71,109,5.06,1.3,1.00,117,3.89,2.360,1.661,0.471,"1 cake (3"" dia) with fruit and whipped cream",112,35.74,55,26.8
+Shortcake Sponge with Whipped Cream and Fruit,3929,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-shortcake-sponge-type-with-whipped-cream-and-fruit,27,179,33.65,92,4.29,1.1,0.85,99,3.30,2.000,1.408,0.399,100 g,95,30.29,47,22.7
+Shortcake Sponge with Whipped Cream and Fruit,3929,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-shortcake-sponge-type-with-whipped-cream-and-fruit,32,211,39.71,109,5.06,1.3,1.00,117,3.89,2.360,1.661,0.471,1 serving (118 g),112,35.74,55,26.8
+Shortcake Sponge with Whipped Cream and Fruit,3929,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-shortcake-sponge-type-with-whipped-cream-and-fruit,8,51,9.54,26,1.22,0.3,0.24,28,0.94,0.567,0.399,0.113,1 oz,27,8.59,13,6.4
+Shortcake Sponge with Whipped Cream and Fruit,3929,Generic,https://www.fatsecret.com/calories-nutrition/generic/cake-shortcake-sponge-type-with-whipped-cream-and-fruit,369,2443,459.32,1256,58.56,15.0,11.60,1351,45.04,27.304,19.220,5.447,"1 2-layer cake serving (9"" dia, approx 4"" high)",1297,413.46,642,309.9
+Sushi,5104,Generic,https://www.fatsecret.com/calories-nutrition/generic/sushi,5,37,7.77,1,0.11,0.2,0.35,34,1.12,0.023,0.033,0.033,1 piece,155,1.63,12,0.5
+Sushi,5104,Generic,https://www.fatsecret.com/calories-nutrition/generic/sushi,19,143,29.90,3,0.42,0.8,1.36,129,4.30,0.087,0.128,0.125,100 g,596,6.27,45,2.0
+Sushi,5104,Generic,https://www.fatsecret.com/calories-nutrition/generic/sushi,24,179,37.38,4,0.52,1.0,1.70,161,5.37,0.109,0.160,0.156,1 serving (125 g),745,7.84,56,2.5
+"Taco or Tostada with Beef, Cheese and Lettuce",4823,Generic,https://www.fatsecret.com/calories-nutrition/generic/taco-or-tostada-with-beef-cheese-and-lettuce,90,221,16.20,31,12.65,2.1,1.50,179,10.88,3.924,5.147,2.332,1 taco or tostada,462,0.47,18,0.5
+"Taco or Tostada with Beef, Cheese and Lettuce",4823,Generic,https://www.fatsecret.com/calories-nutrition/generic/taco-or-tostada-with-beef-cheese-and-lettuce,115,283,20.77,40,16.22,2.7,1.93,229,13.95,5.031,6.599,2.990,100 g,592,0.60,23,0.6
+Takoyaki,5796962,Generic,https://www.fatsecret.com/calories-nutrition/generic/takoyaki,12,70,7.11,35,3.02,0.3,0.78,66,3.38,0.427,1.469,0.844,1 ball,107,0.19,17,1.1
+Takoyaki,5796962,Generic,https://www.fatsecret.com/calories-nutrition/generic/takoyaki,31,175,17.77,87,7.56,0.7,1.96,164,8.45,1.068,3.674,2.111,100 g,267,0.48,42,2.8
+Tiramisu,1234,Generic,https://www.fatsecret.com/calories-nutrition/generic/tiramisu,50,283,24.41,167,18.20,0.9,1.29,129,4.77,10.532,5.825,1.046,100 g,85,16.82,150,0.7
+Tiramisu,1234,Generic,https://www.fatsecret.com/calories-nutrition/generic/tiramisu,87,492,42.47,291,31.67,1.6,2.24,224,8.30,18.326,10.136,1.820,1 piece,148,29.27,261,1.2
+Tiramisu,1234,Generic,https://www.fatsecret.com/calories-nutrition/generic/tiramisu,87,492,42.47,291,31.67,1.6,2.24,224,8.30,18.326,10.136,1.820,1 serving (174 g),148,29.27,261,1.2
+Tiramisu,1234,Generic,https://www.fatsecret.com/calories-nutrition/generic/tiramisu,14,80,6.92,47,5.16,0.3,0.37,37,1.35,2.986,1.651,0.297,1 oz,24,4.77,43,0.2
+Tiramisu,1234,Generic,https://www.fatsecret.com/calories-nutrition/generic/tiramisu,4,23,1.95,13,1.46,0.1,0.10,10,0.38,0.843,0.466,0.084,1 cubic inch,7,1.35,12,0.1
+Tiramisu,1234,Generic,https://www.fatsecret.com/calories-nutrition/generic/tiramisu,72,405,34.91,239,26.03,1.3,1.84,184,6.82,15.061,8.330,1.496,"1 cup, NFS",122,24.05,215,1.0
+Ahi Tuna Tartare,73950918,Brand,https://www.fatsecret.com/calories-nutrition/seasons-52/ahi-tuna-tartare,,350,25.00,50,14.00,6.0,,,32.00,2.500,,,1 serving,660,9.00,,
+Homestyle Waffles (2),59737,Brand,https://www.fatsecret.com/calories-nutrition/eggo/homestyle-waffles-(2),260,190,22.00,10,6.00,0.5,3.60,40,10.00,2.000,,,2 waffles,300,2.00,,
