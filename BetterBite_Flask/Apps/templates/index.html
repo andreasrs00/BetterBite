@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Classifier</title>
+</head>
+<body>
+    <h1>Upload a Food Image</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <button type="submit">Upload</button>
+    </form>
+
+    {% if label %}
+        <h2>Prediction:</h2>
+        <p><strong>Class:</strong> {{ label }}</p>
+        <p><strong>Confidence:</strong> {{ '%.2f' % (confidence * 100) }}%</p>
+        <img src="{{ image_path }}" alt="Uploaded Image" width="300">
+    {% endif %}
+
+    {% if nutrition %}
+  <h3>Nutrition Facts for {{ label }}:</h3>
+  <ul>
+    <li><strong>Calories:</strong> {{ nutrition.calories }} kcal</li>
+    <li><strong>Carbohydrate:</strong> {{ nutrition.carbohydrate }} g</li>
+    <li><strong>Cholesterol:</strong> {{ nutrition.cholesterol }} mg</li>
+    <li><strong>Fat:</strong> {{ nutrition.fat }} g</li>
+    <li><strong>Fiber:</strong> {{ nutrition.fiber }} g</li>
+    <li><strong>Iron:</strong> {{ nutrition.iron }} mg</li>
+    <li><strong>Protein:</strong> {{ nutrition.protein }} g</li>
+    <li><strong>Sugar:</strong> {{ nutrition.sugar }} g</li>
+  </ul>
+    {% elif label %}
+  <p><strong>No nutrition data found for "{{ label }}"</strong></p>
+    {% endif %}
+</body>
+</html>
