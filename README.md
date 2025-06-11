@@ -4,7 +4,7 @@
 
 Dengan memanfaatkan teknologi klasifikasi gambar dan integrasi database nutrisi, Better Bite memungkinkan pengguna mendapatkan informasi gizi secara instan dan praktis. Aplikasi ini bertujuan untuk meningkatkan kesadaran gizi masyarakat, mendorong pengambilan keputusan yang lebih sehat, serta menjembatani kesenjangan antara kebutuhan akan pola makan sehat dan keterbatasan informasi yang dimiliki pengguna sehari-hari.
 
-#Teknologi yang digunakan
+# Teknologi yang digunakan
 1. Frontend – React.js
 2. Backend API – Hapi.js (Node.js)
 3. Model Server – Flask (Python)
