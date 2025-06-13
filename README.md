@@ -6,6 +6,17 @@ By leveraging image classification technology and a comprehensive nutrition data
 
 ---
 
+## 🚀 Live Demo (Deployment)
+
+BetterBite has been fully deployed and consists of three main components:
+
+| Component           | GitHub Repository                                                                 | Link Deployment                                                                 |
+|--------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Frontend (React)   | [project_capstone](https://github.com/nadiaoktarina/project_capstone)             | [Frontend Live](https://nadiaoktarina.github.io/project_capstone/)          |
+| Backend API (Hapi.js) | [backend_capstone](https://github.com/nadiaoktarina/backend_capstone)         | [Backend Live](https://backendcapstone-production-2dd2.up.railway.app/)     |
+| Flask Model Server | [Backend_capstone_flask](https://github.com/yesiarisas/Backend_capstone_flask)    | [Flask Model Live](https://grateful-magic-production-761e.up.railway.app/)  |
+
+
 ## How to Use
 
 ```
