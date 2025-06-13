@@ -6,7 +6,7 @@ By leveraging image classification technology and a comprehensive nutrition data
 
 ---
 
-## 🚀 Live Demo (Deployment)
+## Live Demo (Deployment)
 
 BetterBite has been fully deployed and consists of three main components:
 
